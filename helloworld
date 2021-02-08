@@ -4,6 +4,11 @@
         <title>Basic Web Page</title>
     </head>
     <body>
+<<<<<<< HEAD
 Hello World, this is first DevOps changes..!!
+=======
+Hello World,
+I'm going to be DevOps engineer in this year with good hands on experience
+>>>>>>> Feature-branch
     </body>
 </html>
